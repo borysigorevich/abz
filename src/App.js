@@ -6,7 +6,7 @@ import Form from "./components/form/Form";
 
 function App() {
     return (
-        <div style={{width: '100%', height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', backgroundColor: 'black'}}>
+        <div>
             <Header/>
             <main>
                 <About/>
